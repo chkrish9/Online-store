@@ -1,0 +1,25 @@
+:root {
+  --mainBlue: #2a2a72;
+  --lightBlue: #009ffd;
+  --mainWhite: #f3f3f3;
+  --mianDark: #232528;
+  --mainYellow: #ffa400;
+}
+body {
+  font-family: "ZCOOL QingKe HuangYou", cursive !important;
+  background: var(--mainWhite) !important;
+  color: var(--mianDark) !important;
+}
+
+.text-title {
+  text-transform: uppercase;
+  letter-spacing: 0.3rem;
+}
+
+.text-blue {
+  color: var(--mainBlue);
+}
+
+.text-bright {
+  color: var(--mainBlue);
+}
